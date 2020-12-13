@@ -44,7 +44,7 @@ Not enough?<br>Here's my: <a href="https://www.instagram.com/mattia.dev/" target
 
 
 
-### Planning to learn
+### Planning to learn:
 
 - <a href="https://www.vim.org/" target="_blank"><img src="vim.png" width="13px"> Vim</a>
 - <a href="https://reactjs.org/" target="_blank"><img src="react.png" width="13px"> React</a>
