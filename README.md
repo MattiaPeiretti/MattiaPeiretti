@@ -1,6 +1,6 @@
 ### Hello there, dear internet surfer! 🏄‍
 Welcome to my github profile, this is the backend of all my works.
-_Yes, you got it, where all of that nerdy magig happens 😏_
+_Yes, you got it, where all of that nerdy magic happens 😏_
 
 I am currently working on many commercial projects, which is why you don't see many repos here.
 Mostly, the public repositories that you can find on my profile have to do with sience or astronomy.
