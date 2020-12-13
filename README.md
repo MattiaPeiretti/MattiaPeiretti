@@ -18,6 +18,14 @@ Still interested? Surf a little further on my website then: https://mattiapeiret
 
 - Coming soon!
 
+### Emojis in my commits?!
+Well, in order to have a better experience when scrolling though all of those commit messages, I like to categorize them with an emoji!
+<ul>
+  <li>📦 -> This means that I have added a new feature E.G: 📦 Created feet</li>
+  <li>💼 -> This means that I have updated a feature E.G: 💼 Added socks to feet</li>
+  <li>🐜 -> This means that I have encountered a bug and fixed it E.G: 🐜 [BUG] Error 404 left sock not found! [SOLUTION] Installed patch for feet router</li>
+</ul>
+
 <!--
 **MattiaPeiretti/MattiaPeiretti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
