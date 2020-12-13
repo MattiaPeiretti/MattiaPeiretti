@@ -20,20 +20,13 @@ Not enough?<br>Here's my: <a href="https://www.instagram.com/mattia.dev/" target
 - <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="css-3.svg" width="13px"> CSS</a>
 - <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="javascript.png" width="13px"> JavaScript</a>
 - <a href="https://vuejs.org/" target="_blank"><img src="vue.png" width="13px"> Vue</a>
-- <a href="https://nuxtjs.org/" target="_blank"><img src="vue.png" width="13px"> NuxtJs</a>
-- <a href="https://www.figma.com/" target="_blank"><img src="figma-1.svg" width="13px"> Figma</a>
+  - <a href="https://nuxtjs.org/" target="_blank"><img src="vue.png" width="13px"> NuxtJs</a>
+- <a href="https://www.figma.com/" target="_blank"><img src="figma-1.svg" height="13px"> Figma</a>
 - <a href="https://wordpress.org/" target="_blank"><img src="wordpress.png" width="13px"> Wordpress.org</a>
-- <a href="https://aws.amazon.com/" target="_blank"><img src="aws.png" width="13px"> AWS (Currently Learning)</a>
-- <a href="https://cloud.google.com/" target="_blank"><img src="gcp.png" width="13px"> GCP (Currently Learning)</a>
 - <a href="https://www.python.org/" target="_blank"><img src="python.png" width="13px"> Python</a>
-- <a href="https://opencv.org/" target="_blank"><img src="opencv.png" width="13px"> OpenCV (intermediate)</a>
-- <a href="https://docs.python.org/3/library/tkinter.html" target="_blank"><img src="python.png" width="13px"> TkInter</a>
-- <a href="https://en.wikipedia.org/wiki/Windows_Server" target="_blank"><img src="windowsServer.png" width="13px"> Windows Server 2012/2016 (Intermediate)</a>
-- <a href=""><img src="NetworkIT.png" width="13px"> Network IT (Currently Learning)</a>
-- <a href="https://www.linux.org/" target="_blank"><img src="linux.png" width="13px"> Linux (Currently Learning)</a>
+  - <a href="https://docs.python.org/3/library/tkinter.html" target="_blank"><img src="python.png" width="13px"> TkInter</a>
+  - <a href="https://opencv.org/" target="_blank"><img src="opencv.png" width="13px"> OpenCV (intermediate)</a>
 - <a href="https://www.arduino.cc/" target="_blank"><img src="arduino.png" width="13px"> Arduino</a>
-- <a href="https://www.raspberrypi.org/" target="_blank"><img src="raspberrypi.png" width="13px"> Raspberry PI (Currently Learning)</a>
-- <a href="" target="_blank"><img src="quantumComputing.png" width="13px"> Quantum Computing</a>
 - <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="visualStudio.png" width="13px"> Visual Studio</a>
 - <a href="https://code.visualstudio.com/" target="_blank"><img src="vscode.png" width="13px"> Visual Studio Code</a>
 - <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="adobePremierePro.png" width="13px"> Adobe Premiere Pro</a>
@@ -41,6 +34,14 @@ Not enough?<br>Here's my: <a href="https://www.instagram.com/mattia.dev/" target
 - <a href="https://trello.com/" target="_blank"><img src="trello.png" width="13px"> Trello</a>
 - <a href="https://notion.so/" target="_blank"><img src="notion-2.svg" width="13px"> Notion</a>
 - <a href="https://www.microsoft.com/en-gb/windows/" target="_blank"><img src="windows10.png" width="13px"> Windows 10</a>
+- <a href="https://en.wikipedia.org/wiki/Windows_Server" target="_blank"><img src="windowsServer.png" width="13px"> Windows Server 2012/2016 (Intermediate)</a>
+
+- <a href="" target="_blank"><img src="quantumComputing.png" width="13px"> Quantum Computing (Currently Learning)</a>
+- <a href=""><img src="NetworkIT.png" width="13px"> Network IT (Currently Learning)</a>
+- <a href="https://aws.amazon.com/" target="_blank"><img src="aws.png" width="13px"> AWS (Currently Learning)</a>
+- <a href="https://cloud.google.com/" target="_blank"><img src="gcp.png" width="13px"> GCP (Currently Learning)</a>
+- <a href="https://www.raspberrypi.org/" target="_blank"><img src="raspberrypi.png" width="13px"> Raspberry PI (Currently Learning)</a>
+- <a href="https://www.linux.org/" target="_blank"><img src="linux.png" width="13px"> Linux (Currently Learning)</a>
 
 
 
