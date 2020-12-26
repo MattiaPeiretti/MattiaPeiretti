@@ -7,3 +7,5 @@ The course was an introductory course of the matemathics and algorythm creation 
 It's possible to find out more on the offical website of the [Quantum Quest](http://quantum-quest.nl/).
 
 I passed the course as one of the best students, and I have recieved the following certificate:
+
+![](CertificateQQ.jpg)
