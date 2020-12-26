@@ -35,7 +35,7 @@ Not enough?<br>Here's my: <a href="https://www.instagram.com/mattia.dev/" target
 - <a href="https://notion.so/" target="_blank"><img src="notion-2.svg" width="13px"> Notion</a>
 - <a href="https://www.microsoft.com/en-gb/windows/" target="_blank"><img src="windows10.png" width="13px"> Windows 10</a>
 - <a href="https://en.wikipedia.org/wiki/Windows_Server" target="_blank"><img src="windowsServer.png" width="13px"> Windows Server 2012/2016 (Intermediate)</a>
-- <a href="" target="_blank"><img src="quantumComputing.png" width="13px"> Quantum Computing (Currently Learning)</a>
+- <a href="qq.md" target="_blank"><img src="quantumComputing.png" width="13px"> Quantum Computing (Currently Learning)</a>
 - <a href=""><img src="NetworkIT.png" width="13px"> Network IT (Currently Learning)</a>
 - <a href="https://aws.amazon.com/" target="_blank"><img src="aws.png" width="13px"> AWS (Currently Learning)</a>
 - <a href="https://cloud.google.com/" target="_blank"><img src="gcp.png" width="13px"> GCP (Currently Learning)</a>
