@@ -1,79 +1,39 @@
-### Hello there, dear internet surfer! 🏄‍
-Welcome to my github profile, this is the backend of all my works.
-_Yes, you got it, where all of that nerdy magic happens 😏_
+<h1 align="center">Hi 👋, I'm Mattia Peiretti</h1>
+<h3 align="center">But you can call me Matt ;)</h3>
 
-I am currently working on many commercial projects, which is why you don't see many repos here.
-Mostly, the public repositories that you can find on my profile have to do with sience or astronomy.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mattiapeiretti&label=Profile%20views&color=0e75b6&style=flat" alt="mattiapeiretti" /> </p>
 
-### But hey, I haven't presented myself yet! Let me fix that:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattiapeiretti" alt="mattiapeiretti" /></a> </p>
 
-- 👨‍⚕️ I am Mattia, but you can call me Matt, I am a Computer Science student in Amsterdam.
-- 🤑 I am currently freelancing as a webdeveloper. 
-- 🐍 But sometimes I also love to go offline and develop some good old local software, for that purpose I use my beloved python language.
+- 🔭 I’m currently working on [helping people finding a house at Pararius](pararius.nl)
 
-Still interested? Surf a little further on my website then: https://mattiapeiretti.com/, see you there!
-Not enough?<br>Here's my: <a href="https://www.instagram.com/mattia.dev/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" width="13px"> Instagram</a>  <a href="https://www.youtube.com/channel/UCdztpA05sJ4dZfg4zgEnPLA" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111748.svg" width="13px"> Youtube</a>
+- 🌱 I’m currently learning **AI, making my own modes, and how to manage a tech team**
 
-### My skills:
+- 🔭 I’m currently also working on [making rock solid software for emerging companies with my digital agency](phobosmedia.nl)
 
-- <a href="https://en.wikipedia.org/wiki/HTML#:~:text=Hypertext%20Markup%20Language%20(HTML)%20is,scripting%20languages%20such%20as%20JavaScript." target="_blank"><img src="html.svg" width="13px"> HTML</a>
-- <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="css-3.svg" width="13px"> CSS</a>
-- <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="javascript.png" width="13px"> JavaScript</a>
-- <a href="https://vuejs.org/" target="_blank"><img src="vue.png" width="13px"> Vue</a>
-  - <a href="https://nuxtjs.org/" target="_blank"><img src="vue.png" width="13px"> NuxtJs</a>
-- <a href="https://www.figma.com/" target="_blank"><img src="figma-1.svg" height="13px"> Figma</a>
-- <a href="https://wordpress.org/" target="_blank"><img src="wordpress.png" width="13px"> Wordpress.org</a>
-- <a href="https://www.python.org/" target="_blank"><img src="python.png" width="13px"> Python</a>
-  - <a href="https://docs.python.org/3/library/tkinter.html" target="_blank"><img src="python.png" width="13px"> TkInter</a>
-  - <a href="https://opencv.org/" target="_blank"><img src="opencv.png" width="13px"> OpenCV (intermediate)</a>
-- <a href="https://www.arduino.cc/" target="_blank"><img src="arduino.png" width="13px"> Arduino</a>
-- <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="visualStudio.png" width="13px"> Visual Studio</a>
-- <a href="https://code.visualstudio.com/" target="_blank"><img src="vscode.png" width="13px"> Visual Studio Code</a>
-- <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="adobePremierePro.png" width="13px"> Adobe Premiere Pro</a>
-- <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img src="adobeLightroom.png" width="13px"> Adobe Lightroom</a>
-- <a href="https://trello.com/" target="_blank"><img src="trello.png" width="13px"> Trello</a>
-- <a href="https://notion.so/" target="_blank"><img src="notion-2.svg" width="13px"> Notion</a>
-- <a href="https://www.microsoft.com/en-gb/windows/" target="_blank"><img src="windows10.png" width="13px"> Windows 10</a>
-- <a href="https://en.wikipedia.org/wiki/Windows_Server" target="_blank"><img src="windowsServer.png" width="13px"> Windows Server 2012/2016 (Intermediate)</a>
-- <a href="qq.md" target="_blank"><img src="quantumComputing.png" width="13px"> Quantum Computing (Currently Learning)</a>
-- <a href=""><img src="NetworkIT.png" width="13px"> Network IT (Currently Learning)</a>
-- <a href="https://aws.amazon.com/" target="_blank"><img src="aws.png" width="13px"> AWS (Currently Learning)</a>
-- <a href="https://cloud.google.com/" target="_blank"><img src="gcp.png" width="13px"> GCP (Currently Learning)</a>
-- <a href="https://www.raspberrypi.org/" target="_blank"><img src="raspberrypi.png" width="13px"> Raspberry PI (Currently Learning)</a>
-- <a href="https://www.linux.org/" target="_blank"><img src="linux.png" width="13px"> Linux (Currently Learning)</a>
+- 🔭 I’m currently also also working on [a startup called Telefoonheld, that helps people find their best phone](telefoonheld.nl)
 
+- 👨‍💻 All of my projects are available at [phobosmedia.com](phobosmedia.com)
 
+- 💬 Ask me about **backend, frontend, low-level testing, high-level testing, eye-level testing (🤣) and entrepreneurship**
 
-### Planning to learn:
+- 📫 How to reach me **mattia@phobosmedia.com**
 
-- <a href="https://www.vim.org/" target="_blank"><img src="vim.png" width="13px"> Vim</a>
-- <a href="https://reactjs.org/" target="_blank"><img src="react.png" width="13px"> React</a>
-- <a href="https://www.djangoproject.com/" target="_blank"><img src="django.png" width="13px"> Django</a>
-- <a href="https://flask.palletsprojects.com/" target="_blank"><img src="flask.png" width="13px"> Flask</a>
-- <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="cpp.png" width="13px"> C++ (Improve)</a>
-- <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="csharp.png" width="13px"> C#</a>
-- <a href="https://docs.python.org/3/library/socket.html" target="_blank"><img src="python.png" width="13px"> Python Sockets</a>
+- ⚡ Fun fact **I don't own a single pair of sneakers :(**
 
-### Emojis in my commits?!
-Well, in order to have a better experience when scrolling though all of those commit messages, I like to categorize them with an emoji!
-<ul>
-  <li>📦 -> This means that I have added a new feature E.G: 📦 Created feet</li>
-  <li>💼 -> This means that I have updated a feature E.G: 💼 Added socks to feet</li>
-  <li>🐜 -> This means that I have encountered a bug and fixed it E.G: 🐜 [BUG] Error 404 left sock not found! [SOLUTION] Installed patch for feet router</li>
-</ul>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mattiapeiretti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mattiapeiretti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mattiapeiretti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattiapeiretti" height="30" width="40" /></a>
+<a href="https://instagram.com/iammattttt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iammattttt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mattiapeiretti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mattiapeiretti" height="30" width="40" /></a>
+</p>
 
-<div>Icons made by <a href="https://icon54.com/" title="Pixel perfect">Pixel perfect</a><br><a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-<!--
-**MattiaPeiretti/MattiaPeiretti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-Here are some ideas to get you started:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattiapeiretti&show_icons=true&locale=en&layout=compact" alt="mattiapeiretti" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattiapeiretti&show_icons=true&locale=en" alt="mattiapeiretti" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattiapeiretti&" alt="mattiapeiretti" /></p>
