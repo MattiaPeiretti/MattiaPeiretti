@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattiapeiretti&label=Profile%20views&color=0e75b6&style=plastic" alt="mattiapeiretti" /> </p>
 
-- 🔭 I’m currently working on [helping people finding a house at Pararius](https://pararius.nl)
+- 🔭 I’m currently working on [helping people find a house at Pararius](https://pararius.nl)
 
-- 🌱 I’m currently learning **AI, making my own modes, and how to manage a tech team**
+- 🌱 I’m currently learning **AI, making my models, and how to manage a tech team**
 
-- 🔭 I’m currently also working on [making rock solid software for emerging companies with my digital agency](https://phobosmedia.nl)
+- 🔭 I’m currently also working on [making rock-solid software for emerging companies with my digital agency](https://phobosmedia.nl)
 
-- 🔭 I’m currently also also working on [a startup called Telefoonheld, that helps people find their best phone](https://telefoonheld.nl)
+- 🔭 I’m currently also also working on [a startup called Telefoonheld, which helps people find their best phone](https://telefoonheld.nl)
 
 - 👨‍💻 All of my projects are available at [https://phobosmedia.com](https://phobosmedia.com)
 
