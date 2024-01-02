@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mattia Peiretti</h1>
 <h3 align="center">But you can call me Matt ;)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mattiapeiretti&label=Profile%20views&color=0e75b6&style=flat" alt="mattiapeiretti" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mattiapeiretti&label=Profile%20views&color=0e75b6&style=plastic" alt="mattiapeiretti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattiapeiretti" alt="mattiapeiretti" /></a> </p>
-
-- 🔭 I’m currently working on [helping people finding a house at Pararius](pararius.nl)
+- 🔭 I’m currently working on [helping people finding a house at Pararius](https://pararius.nl)
 
 - 🌱 I’m currently learning **AI, making my own modes, and how to manage a tech team**
 
-- 🔭 I’m currently also working on [making rock solid software for emerging companies with my digital agency](phobosmedia.nl)
+- 🔭 I’m currently also working on [making rock solid software for emerging companies with my digital agency](https://phobosmedia.nl)
 
-- 🔭 I’m currently also also working on [a startup called Telefoonheld, that helps people find their best phone](telefoonheld.nl)
+- 🔭 I’m currently also also working on [a startup called Telefoonheld, that helps people find their best phone](https://telefoonheld.nl)
 
-- 👨‍💻 All of my projects are available at [phobosmedia.com](phobosmedia.com)
+- 👨‍💻 All of my projects are available at [https://phobosmedia.com](https://phobosmedia.com)
 
 - 💬 Ask me about **backend, frontend, low-level testing, high-level testing, eye-level testing (🤣) and entrepreneurship**
 
@@ -35,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattiapeiretti&show_icons=true&locale=en&layout=compact" alt="mattiapeiretti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattiapeiretti&show_icons=true&locale=en" alt="mattiapeiretti" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattiapeiretti&" alt="mattiapeiretti" /></p>
